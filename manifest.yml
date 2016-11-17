@@ -1,8 +1,8 @@
 applications:
 - path: .
-  memory: 256M
+  memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
-  disk_quota: 1024M
+  name: webchatbotcar
+  host: webchatbotcar
+  disk_quota: 512M
